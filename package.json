@@ -1,0 +1,22 @@
+{
+  "name": "react-omit-keys",
+  "version": "0.1.0",
+  "description": "Omit object keys.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "scripts": {
+    "test": "jest",
+    "test-cov": "jest --coverage"
+  },
+  "author": "Zhang Kai Yu <yeannylam@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-man": "^1.0.4",
+    "eslint-plugin-jest": "^22.5.1",
+    "jest": "^24.8.0"
+  }
+}
